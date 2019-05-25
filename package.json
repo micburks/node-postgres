@@ -1,5 +1,5 @@
 {
-  "name": "pg",
+  "name": "@micburks/pg",
   "version": "7.11.0",
   "description": "PostgreSQL client - pure javascript & libpq with the same API",
   "keywords": [
@@ -17,6 +17,9 @@
     "url": "git://github.com/brianc/node-postgres.git"
   },
   "author": "Brian Carlson <brian.m.carlson@gmail.com>",
+  "contributors": [
+    "Mickey Burks <brks.mck@gmail.com>"
+  ],
   "main": "./lib",
   "dependencies": {
     "buffer-writer": "2.0.0",
